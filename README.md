@@ -1,30 +1,25 @@
-## Hi, I'm Sticrypt 👋
+`Python` · `Automation` · `REST APIs` · `Telegram Bots & Mini Apps` · `Web Tools`
 
-I build practical tools that save time: **automations, API integrations, Telegram bots and small web apps**, using AI as a daily working instrument. Based in **Warsaw, Poland** · open to on-site, hybrid and remote work.
+---
 
-### 🛠 What I do
-- ⚙️ Automate repetitive tasks and connect services through REST APIs
-- 🤖 Build Telegram bots and Mini Apps with Flask / FastAPI backends
-- 🖥 Deploy and maintain my own projects on VPS (SSH, environment setup, troubleshooting)
-- 🧠 Prompt engineering and AI orchestration: choosing models, coordinating them, evaluating results
-- 🎮 Games and apps in Clickteam Fusion 2.5 (~13 years), 3D modeling in SketchUp (~7 years)
+### ▸ Focus
 
-### 🧰 Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram_Bots-26A5E4?style=flat&logo=telegram&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat&logo=cloudflare&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-555555?style=flat&logo=postman&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![SketchUp](https://img.shields.io/badge/SketchUp-005F9E?style=flat&logo=sketchup&logoColor=white)
+```text
+▸ Workflow automation, parsers & service integrations       [Python, HTTPX, REST API]
+▸ Telegram bots & Mini Apps                                 [Flask, FastAPI]
+▸ Serverless & edge web tools                               [Cloudflare Workers, D1]
+▸ AI orchestration & prompt engineering                     [LLM APIs, pipelines]
+▸ Game & desktop/mobile app development                     [Clickteam Fusion 2.5]
+▸ 3D geometric modeling                                     [SketchUp]
+```
 
-**AI tools:** ChatGPT · Claude · Gemini · Grok · Qwen · Midjourney · Veo
+### ▸ Stack
 
-### 🚀 Recent project
-**Job matcher** on Cloudflare Workers + D1: collects vacancies from Polish job boards, scores them against a candidate profile and surfaces the best matches.
-
-### 📫 Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bohdan-patynskyi-305576300)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/godofrighteousness)
+![Python](https://img.shields.io/badge/Python-181717?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-181717?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-181717?style=flat-square&logo=flask&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-181717?style=flat-square&logo=telegram&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare_Workers-181717?style=flat-square&logo=cloudflare&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-181717?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-181717?style=flat-square&logo=css3&logoColor=white)
+![SketchUp](https://img.shields.io/badge/SketchUp-181717?style=flat-square&logo=sketchup&logoColor=white)
